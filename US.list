@@ -1,0 +1,13 @@
+# 内容：其他需要代理的站点
+# 域名关键字匹配
+# DOMAIN-KEYWORD,zxzj
+# 域名后缀匹配
+DOMAIN-SUFFIX,hailuo.ai/audio
+DOMAIN-SUFFIX,hailuo.ai
+DOMAIN-SUFFIX,hailuoai.video
+DOMAIN-SUFFIX,accounts.google.com
+DOMAIN-SUFFIX,oauth2.googleapis.com
+DOMAIN-SUFFIX,imap.gmail.com
+DOMAIN-SUFFIX,smtp.gmail.com
+DOMAIN-SUFFIX,clients4.google.com
+DOMAIN-SUFFIX,googleapis.com
