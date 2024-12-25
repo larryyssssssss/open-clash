@@ -4,3 +4,7 @@
 # 域名后缀匹配
 DOMAIN-SUFFIX,zxzjys.com
 DOMAIN-SUFFIX,zxzj*.com
+DOMAIN-SUFFIX,accounts.google.com
+DOMAIN-SUFFIX,oauth2.googleapis.com
+DOMAIN-SUFFIX,imap.gmail.com
+DOMAIN-SUFFIX,smtp.gmail.com
