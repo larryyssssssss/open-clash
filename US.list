@@ -2,9 +2,11 @@
 # 域名关键字匹配
 # DOMAIN-KEYWORD,zxzj
 # 域名后缀匹配
+#海螺AI国外版
 DOMAIN-SUFFIX,hailuo.ai/audio
 DOMAIN-SUFFIX,hailuo.ai
 DOMAIN-SUFFIX,hailuoai.video
+DOMAIN-SUFFIX,api.minimaxi.chat
 DOMAIN-SUFFIX,accounts.google.com
 DOMAIN-SUFFIX,oauth2.googleapis.com
 DOMAIN-SUFFIX,imap.gmail.com
