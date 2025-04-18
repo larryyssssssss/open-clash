@@ -16,3 +16,6 @@ DOMAIN-SUFFIX,clients4.google.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,truthsocial.com
 DOMAIN-SUFFIX,windsurf.com
+DOMAIN-SUFFIX,api.windsurfai.org
+DOMAIN-SUFFIX,assets.windsurfai.org
+DOMAIN-SUFFIX,updates.windsurfai.org
