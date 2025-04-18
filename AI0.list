@@ -5,3 +5,11 @@
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+
+#windsurf
+DOMAIN-SUFFIX,windsurf.com
+DOMAIN-SUFFIX,api.windsurfai.org
+DOMAIN-SUFFIX,assets.windsurfai.org
+DOMAIN-SUFFIX,updates.windsurfai.org
+DOMAIN-SUFFIX,codeium.com
+DOMAIN-SUFFIX,mousegesturesapi.com
