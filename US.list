@@ -15,10 +15,3 @@ DOMAIN-SUFFIX,smtp.gmail.com
 DOMAIN-SUFFIX,clients4.google.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,truthsocial.com
-#windsurf
-DOMAIN-SUFFIX,windsurf.com
-DOMAIN-SUFFIX,api.windsurfai.org
-DOMAIN-SUFFIX,assets.windsurfai.org
-DOMAIN-SUFFIX,updates.windsurfai.org
-DOMAIN-SUFFIX,codeium.com
-DOMAIN-SUFFIX,mousegesturesapi.com
