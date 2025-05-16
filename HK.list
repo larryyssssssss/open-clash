@@ -1,6 +1,7 @@
-# 内容：其他需要代理的站点
+# 内容：OpenAi
 # 域名关键字匹配
-# DOMAIN-KEYWORD,zxzj
+# DOMAIN-KEYWORD,openai
 # 域名后缀匹配
-DOMAIN-SUFFIX,zxzjys.com
-DOMAIN-SUFFIX,zxzj*.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
