@@ -15,3 +15,6 @@ DOMAIN-SUFFIX,smtp.gmail.com
 DOMAIN-SUFFIX,clients4.google.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,truthsocial.com
+
+#DIA
+DOMAIN-SUFFIX,account.diabrowser.engineering
