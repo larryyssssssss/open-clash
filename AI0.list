@@ -1,1 +1,7 @@
-
+# 内容：OpenAi
+# 域名关键字匹配
+# DOMAIN-KEYWORD,openai
+# 域名后缀匹配
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
