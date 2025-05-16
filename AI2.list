@@ -2,7 +2,7 @@ DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,metademolab.com
 DOMAIN-SUFFIX,perplexity.ai
 #DIA
-DOMAIN-SUFFIX,account.diabrowser.engineering
-DOMAIN-SUFFIX,ai-service.diabrowser.engineering
-DOMAIN-SUFFIX,ai-service.diabrowser.engineering:443
-DOMAIN-SUFFIX,account.diabrowser.engineering:443
+full,account.diabrowser.engineering
+full,ai-service.diabrowser.engineering
+full,ai-service.diabrowser.engineering:443
+full,account.diabrowser.engineering:443
