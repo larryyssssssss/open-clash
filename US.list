@@ -25,18 +25,3 @@ DOMAIN,prod-creator-api.lovart.ai
 DOMAIN,prod-um-api.lovart.ai
 DOMAIN,test-creator-api.lovart.ai
 DOMAIN,test-um-api.lovart.ai
-
-# 第三方依赖域名
-DOMAIN-SUFFIX,aliyun.com
-DOMAIN-SUFFIX,aliyuncs.com
-DOMAIN-SUFFIX,googletagmanager.com
-DOMAIN-SUFFIX,google-analytics.com
-DOMAIN,g.doubleclick.net
-DOMAIN,www.google.com
-DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,volcengineapi.com
-DOMAIN,iv.volces.com
-DOMAIN,sf-cdn-tos.douyinstatic.com
-DOMAIN,sf16-website-login.i18n-orp.com
-DOMAIN-SUFFIX,byteplus.com
-# -------- 规则结束 --------
