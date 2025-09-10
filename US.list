@@ -126,6 +126,14 @@ DOMAIN,www.camcard.com
 ## 货拉拉（Lalamove，智慧物流，东南亚/拉美/欧美等市场AI赋能）
 DOMAIN-SUFFIX,lalamove.com
 DOMAIN,www.lalamove.com
+## Folo（RSS聚合与内容订阅服务，欧美用户活跃）
+DOMAIN-SUFFIX,folo.is
+DOMAIN,app.folo.is
+DOMAIN,api.folo.is
+DOMAIN,download.folo.is
+DOMAIN,rsshub.folo.is
+DOMAIN-SUFFIX,follow.is
+DOMAIN-SUFFIX,rsshub.app
 # === 2. 主要在亚洲市场活跃/亚太核心运营的中国AI产品/团队 ===
 ## manus.im（亚太团队/新加坡/中国，部分服务有全球节点）
 DOMAIN,manus.im
