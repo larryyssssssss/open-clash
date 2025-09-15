@@ -199,3 +199,47 @@ DOMAIN,www.abacusai.com
 # 2. 亚太/新加坡/东南亚为主的产品归入第二组。
 # 3. 字节跳动等全球化公司单独分组，便于后续维护。
 # 4. 如有遗漏或需要进一步细分，请补充。
+
+
+
+# Office相关域名
+DOMAIN-SUFFIX,office.com
+DOMAIN-SUFFIX,office365.com
+DOMAIN-SUFFIX,office.net
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,sharepoint.com
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,sharepointonline.com
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,microsoftonline.com
+DOMAIN-SUFFIX,msftidentity.com
+DOMAIN-SUFFIX,msidentity.com
+DOMAIN-SUFFIX,msauth.net
+DOMAIN-SUFFIX,msauthimages.net
+DOMAIN-SUFFIX,msftauth.net
+DOMAIN-SUFFIX,msftauthimages.net
+DOMAIN-SUFFIX,windows.net
+DOMAIN-SUFFIX,azure.net
+DOMAIN-SUFFIX,aka.ms
+DOMAIN-SUFFIX,msecnd.net
+DOMAIN-SUFFIX,officecdn.microsoft.com
+DOMAIN-SUFFIX,officeapps.live.com
+DOMAIN-SUFFIX,protection.office.com
+DOMAIN-SUFFIX,security.microsoft.com
+DOMAIN-SUFFIX,login.microsoftonline.com
+DOMAIN-SUFFIX,outlook.com
+DOMAIN-SUFFIX,outlook.office365.com
+DOMAIN-SUFFIX,teams.microsoft.com
+DOMAIN-SUFFIX,onedrive.net
+DOMAIN-SUFFIX,portal.office.com
+DOMAIN-SUFFIX,powerapps.com
+DOMAIN-SUFFIX,powerautomate.com
+DOMAIN-SUFFIX,forms.office.com
+DOMAIN-SUFFIX,excel.officeapps.live.com
+DOMAIN-SUFFIX,word.officeapps.live.com
+DOMAIN-SUFFIX,onenote.com
+DOMAIN-SUFFIX,skype.com
+DOMAIN-SUFFIX,skypeforbusiness.com
+DOMAIN-SUFFIX,broadcast.skype.com
+DOMAIN-SUFFIX,lync.com
+DOMAIN-SUFFIX,sfbassets.com
