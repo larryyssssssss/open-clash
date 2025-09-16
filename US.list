@@ -201,6 +201,7 @@ DOMAIN,www.abacusai.com
 # 4. 如有遗漏或需要进一步细分，请补充。
 
 
-#Apple Siri 以及相关智能服务的数据传输和处理节点
-DOMAIN,guzzoni-smoot.v.aaplimg.com
+# Apple Siri 以及相关智能服务的数据传输和处理节点
+# DOMAIN,guzzoni-smoot.v.aaplimg.com
+DOMAIN,apple-relay.apple.com
 
