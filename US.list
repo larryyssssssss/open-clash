@@ -2,43 +2,6 @@
 # 需要强制走美国的域名（US.list）
 # 按运营市场分组
 # ==============================
-# === 1. 主要在欧美市场运营的中国AI产品/团队 ===
-## lovart.ai（全球/欧美为主）
-DOMAIN-SUFFIX,lovart.ai
-DOMAIN,web-static3.lovart.ai
-DOMAIN,www.lovart.ai
-DOMAIN,api.lovart.ai
-DOMAIN,creator.lovart.ai
-DOMAIN,cdn.lovart.ai
-DOMAIN,um.lovart.ai
-DOMAIN,static.lovart.ai
-DOMAIN,sso.lovart.ai
-DOMAIN,image.lovart.ai
-DOMAIN,log.lovart.ai
-DOMAIN,pay.lovart.ai
-DOMAIN,pic.lovart.ai
-DOMAIN,pic-global.lovart.ai
-DOMAIN,prod-creator-api.lovart.ai
-DOMAIN,prod-um-api.lovart.ai
-DOMAIN,test-creator-api.lovart.ai
-DOMAIN,test-um-api.lovart.ai
-## HeyGen（深圳团队，AI视频生成，全球/欧美营收快速增长）
-DOMAIN-SUFFIX,heygen.com
-DOMAIN,app.heygen.com
-DOMAIN,api.heygen.com
-DOMAIN,static.heygen.com
-DOMAIN,www.heygen.com
-## PixVerse（北京团队，AI视频生成，全球/欧美用户百万+）
-DOMAIN-SUFFIX,pixverse.ai
-DOMAIN,app.pixverse.ai
-DOMAIN,cdn.pixverse.ai
-DOMAIN,auth.pixverse.ai
-DOMAIN,www.pixverse.ai
-DOMAIN,api.pixverse.ai
-## Leonardo AI（新加坡团队，欧美创作者活跃）
-DOMAIN-SUFFIX,leonardo.ai
-DOMAIN,app.leonardo.ai
-DOMAIN,api.leonardo.ai
 ## ElevenLabs（AI语音生成，欧美市场为主）
 DOMAIN-SUFFIX,elevenlabs.io
 DOMAIN,www.elevenlabs.io
