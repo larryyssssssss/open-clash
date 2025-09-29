@@ -2,6 +2,8 @@
 # 需要强制走美国的域名（US.list）
 # 按运营市场分组
 # ==============================
+## DiaBrowser ai浏览器
+DOMAIN-SUFFIX,diabrowser.engineering
 ## ElevenLabs（AI语音生成，欧美市场为主）
 DOMAIN-SUFFIX,elevenlabs.io
 DOMAIN,www.elevenlabs.io
