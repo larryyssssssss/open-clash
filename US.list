@@ -187,6 +187,18 @@ DOMAIN,www.abacusai.com
 # 4. 如有遗漏或需要进一步细分，请补充。
 
 
+## Reddit 相关域名
+DOMAIN-SUFFIX,reddit.com
+DOMAIN,www.reddit.com
+DOMAIN,old.reddit.com
+DOMAIN-SUFFIX,redd.it
+DOMAIN,redd.it
+# Reddit Tor（暗网V3域名）
+DOMAIN-SUFFIX,reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion
+DOMAIN,www.reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion
+DOMAIN,old.reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion
+
+
 # Apple Siri 以及相关智能服务的数据传输和处理节点
 # DOMAIN,guzzoni-smoot.v.aaplimg.com
 DOMAIN,apple-relay.apple.com
