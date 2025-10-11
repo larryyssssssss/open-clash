@@ -187,19 +187,4 @@ DOMAIN,www.abacusai.com
 # 4. 如有遗漏或需要进一步细分，请补充。
 
 
-## Reddit 相关域名
-DOMAIN-SUFFIX,reddit.com
-DOMAIN-SUFFIX,www.reddit.com
-DOMAIN-SUFFIX,old.reddit.com
-DOMAIN-SUFFIX,oauth.reddit.com
-DOMAIN-SUFFIX,gateway.reddit.com
-DOMAIN-SUFFIX,redditstatic.com
-DOMAIN-SUFFIX,styles.redditmedia.com
-DOMAIN-SUFFIX,apis.reddit.com
-DOMAIN-SUFFIX,www.redditstatic.com
-DOMAIN-SUFFIX,assets.reddit.com
-DOMAIN-SUFFIX,www.redditmedia.com
-DOMAIN-SUFFIX,gql.reddit.com
-DOMAIN-SUFFIX,www.reddithelp.com
-DOMAIN-SUFFIX,events.reddit.com
-DOMAIN-SUFFIX,imgur.com
+
