@@ -37,8 +37,7 @@ DOMAIN,app.leonardo.ai
 DOMAIN,api.leonardo.ai
 
 
-TRAE 国际版 / 全球
-
+#TRAE 国际版 / 全球
 DOMAIN-SUFFIX,trae.ai
 DOMAIN,trae.ai
 DOMAIN,www.trae.ai
@@ -60,8 +59,7 @@ DOMAIN,install.trae.ai
 DOMAIN,mirror.trae.ai
 DOMAIN,region.trae.ai
 
-TraeIDE / 衍生域
-
+#TraeIDE / 衍生域
 DOMAIN-SUFFIX,traeide.com
 DOMAIN,traeide.com
 DOMAIN,www.traeide.com
@@ -74,3 +72,10 @@ DOMAIN,auth.traeide.com
 DOMAIN,portal.traeide.com
 DOMAIN,chat.traeide.com
 DOMAIN,download.traeide.com
+
+#cohere
+DOMAIN-SUFFIX,cohere.com
+DOMAIN,dashboard.cohere.com
+DOMAIN,api.cohere.com
+DOMAIN,welcome.cohere.com
+DOMAIN,docs.cohere.com
