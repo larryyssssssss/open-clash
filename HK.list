@@ -79,3 +79,18 @@ DOMAIN,dashboard.cohere.com
 DOMAIN,api.cohere.com
 DOMAIN,welcome.cohere.com
 DOMAIN,docs.cohere.com
+
+## Flowith（AI应用平台，多端服务，全球用户增长）
+DOMAIN-SUFFIX,flowith.io
+DOMAIN,try.flowith.io
+DOMAIN,www.flowith.io
+DOMAIN,doc.flowith.io
+DOMAIN,api.flowith.io
+DOMAIN,os.flowith.io
+DOMAIN,app.flowith.io
+DOMAIN,blog.flowith.io
+DOMAIN,cdn.flowith.io
+DOMAIN,auth.flowith.io
+DOMAIN,ios.flowith.io
+DOMAIN,web.flowith.io
+
