@@ -171,7 +171,7 @@ DOMAIN,www.capcut.com
 # Cici（豆包海外版AI聊天，亚太/美区）
 DOMAIN-SUFFIX,cici.ai
 DOMAIN,www.cici.ai
-DOMAIN,www.grokipedia.com
+DOMAIN-SUFFIX,Grokipedia.com
 # Coze（扣子海外版AI Agent平台，亚太/美区）
 DOMAIN-SUFFIX,coze.com
 DOMAIN,www.coze.com
