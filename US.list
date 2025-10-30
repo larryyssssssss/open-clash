@@ -187,5 +187,8 @@ DOMAIN,www.abacusai.com
 # 3. 字节跳动等全球化公司单独分组，便于后续维护。
 # 4. 如有遗漏或需要进一步细分，请补充。
 
+# Google的curl命令
+DOMAIN,ipinfo.io
+
 
 
