@@ -187,8 +187,22 @@ DOMAIN,www.abacusai.com
 # 3. 字节跳动等全球化公司单独分组，便于后续维护。
 # 4. 如有遗漏或需要进一步细分，请补充。
 
-# Google的curl命令
-DOMAIN,ipinfo.io
-
+# Gemini（Google AI）服务域名 —— 建议走美国节点 🇺🇸
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN,gemini.google.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN,bard.google.com
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,ai.google.dev
+DOMAIN,ai.google.dev
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN,deepmind.com
+DOMAIN-SUFFIX,palm.google.com
+DOMAIN,palm.google.com
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN,generativeai.google
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN,proactivebackend-pa.googleapis.com
 
 
