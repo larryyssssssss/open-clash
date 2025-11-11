@@ -180,6 +180,7 @@ DOMAIN,api.coze.com
 # MiniMax海外（AI对话/角色）
 DOMAIN-SUFFIX,abacusai.com
 DOMAIN,www.abacusai.com
+DOMAIN,www.buscdn.ink
 # 以上为2024-2025年中国AI公司在海外运营的主要项目及常见域名。部分公司在海外市场会采用不同品牌名或主打不同应用，实际域名请结合具体产品调整。
 # 说明
 # 1. 欧美为主的公司和产品已优先排列，便于规则优先匹配。
