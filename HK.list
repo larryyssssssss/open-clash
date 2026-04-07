@@ -94,8 +94,5 @@ DOMAIN,auth.flowith.io
 DOMAIN,ios.flowith.io
 DOMAIN,web.flowith.io
 
-# Tabbit AI 浏览器 (美团)
-DOMAIN-SUFFIX,tabbitbrowser.com
-DOMAIN-SUFFIX,tabbit.ai
-DOMAIN,web.tabbitbrowser.com
-DOMAIN,api.tabbitbrowser.com
+
+
