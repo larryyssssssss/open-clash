@@ -93,6 +93,7 @@ DOMAIN,cdn.flowith.io
 DOMAIN,auth.flowith.io
 DOMAIN,ios.flowith.io
 DOMAIN,web.flowith.io
-
+DOMAIN,zh.annas-archive.org
+DOMAIN-SUFFIX,annas-archive.org
 
 
