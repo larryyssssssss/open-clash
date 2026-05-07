@@ -202,3 +202,9 @@ DOMAIN,web.tabbitbrowser.com
 DOMAIN,api.tabbitbrowser.com
 
 DOMAIN-SUFFIX,ollama.ai
+
+## Anabin (德国学历认证数据库，教育/认证类)
+DOMAIN-SUFFIX,kmk.org
+DOMAIN,anabin.kmk.org
+DOMAIN,www.kmk.org
+
